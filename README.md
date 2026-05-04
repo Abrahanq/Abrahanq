@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Abrahan Quintero<br>I'm a Full Stack Developer<br>Future (very soon) Physics<br>Machine Learning enthusiast.
+Hi 👋! My name is Abrahan Quintero<br>I'm a Full Stack Developer<br>Future (very soon) Physicist<br>Machine Learning enthusiast.
 
 
 ## 🌐 Socials:
